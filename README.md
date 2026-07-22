@@ -2,7 +2,7 @@
 
 
 
-🚀 **Systems Analysis and Development student | Java & JavaScript**  
+🚀 **Systems Analysis and Development student | ☕ Backend Developer | Java | Spring Boot*  
 
 🇧🇷 Brazil
 
