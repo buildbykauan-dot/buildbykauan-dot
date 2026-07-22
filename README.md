@@ -40,25 +40,19 @@ Gosto de aprender novas tecnologias, desenvolver projetos práticos e evoluir co
 
   </a>
 
-  <a href="https://instagram.com/si
-
-
-
----
-
-lvaa.devbr">
+  <a href="https://instagram.com/silvaa.devbr">
 
     <img src="https://img.shields.io/badge/Instagram-@silvaa.devbr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
   </a>
 
-  <a href="https://www.tiktok.com/@KauanSystemsLab">
+  <a href="https://www.tiktok.com/@noxis_wrz">
 
     <img src="https://img.shields.io/badge/TikTok-@KauanSystemsLab-000000?style=for-the-badge&logo=tiktok" />
 
   </a>
 
-  <a href="https://www.youtube.com/@KauanSystemsLab">
+  <a href="ttps://www.youtube.com/@buildByKauan">
 
     <img src="https://img.shields.io/badge/YouTube-KauanSystemsLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
@@ -73,11 +67,6 @@ lvaa.devbr">
 
 
 ## 🧠 What I do
-
-
-
-## 🚀 What I Do
-
 
 
 - ☕ Desenvolvo aplicações backend com Java
