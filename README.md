@@ -42,13 +42,13 @@ Gosto de aprender novas tecnologias, desenvolver projetos práticos e evoluir co
 
   <a href="https://instagram.com/silvaa.devbr">
 
-    <img src="https://img.shields.io/badge/Instagram-@silvaa.devbr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-silvaa.devbr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
   </a>
 
   <a href="https://www.tiktok.com/@noxis_wrz">
 
-    <img src="https://img.shields.io/badge/TikTok-@KauanSystemsLab-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-KauanSystemsLab-000000?style=for-the-badge&logo=tiktok" />
 
   </a>
 
