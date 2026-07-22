@@ -111,10 +111,6 @@ Gosto de aprender novas tecnologias, desenvolver projetos práticos e evoluir co
 
 
 
-## 🚀 Philosophy
-
-
-
 ## ☕ Developer Philosophy
 
 
