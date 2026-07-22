@@ -31,35 +31,23 @@ Gosto de aprender novas tecnologias, desenvolver projetos práticos e evoluir co
 ## 🌐 Where to find me
 
 
-
 <p align="left">
-
   <a href="https://github.com/buildbykauan-dot">
-
     <img src="https://img.shields.io/badge/GitHub-buildbykauan-181717?style=for-the-badge&logo=github" />
-
   </a>
 
   <a href="https://instagram.com/silvaa.devbr">
-
     <img src="https://img.shields.io/badge/Instagram-silvaa.devbr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
   </a>
 
   <a href="https://www.tiktok.com/@noxis_wrz">
-
     <img src="https://img.shields.io/badge/TikTok-KauanSystemsLab-000000?style=for-the-badge&logo=tiktok" />
-
   </a>
 
-  <a href="ttps://www.youtube.com/@buildByKauan">
-
+  <a href="https://www.youtube.com/@buildByKauan">
     <img src="https://img.shields.io/badge/YouTube-KauanSystemsLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
   </a>
-
 </p>
-
 
 
 ---
